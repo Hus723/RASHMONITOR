@@ -2,9 +2,9 @@
   "name": "rash-monitor",
   "version": "1.0.0",
   "description": "Real-Time Health Monitoring System",
-  "main": "index.js",  // تأكد من أن هذا يشير إلى index.js
+  "main": "index.js",
   "scripts": {
-    "start": "node index.js"  // تحديث هذا السطر أيضًا
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.18.2",
