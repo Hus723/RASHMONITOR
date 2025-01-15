@@ -1,5 +1,5 @@
 {
-  "name": "rash-monitor",
+  "name": "rashmonitor",
   "version": "1.0.0",
   "description": "Real-Time Health Monitoring System",
   "main": "index.js",
